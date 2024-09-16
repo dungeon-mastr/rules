@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/6c26639f-6748-4aaf-a49c-0f4af688653f)
+
+
 ## **Dungeon Mastr: The Rules of a Blockchain-Powered Adventure**
 
 ### **1. Types of Participants**
