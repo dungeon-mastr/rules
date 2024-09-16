@@ -18,6 +18,7 @@
 
 - the state of the game can be deterministically determined from the testnet4 blockchain
 - all major events generate a block tx
+- all changes or hashes of changes are recorded in bitcoin testnet4
 
 ## money
 
@@ -25,11 +26,14 @@
 - 1 silver = 100 copper
 - 1 gold = 100 silver
 - platinum is reserved
+- coins are worthless, dungeon mastr is just for fun
 
 ## rules
 
 - rules begin to match as far as possible ADND rules
 - rules can be adjusted every 2016 blocks
+- rules form a protocol
+- humans, machines and software should be clear on the rules
 
 ## combat
 
