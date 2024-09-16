@@ -66,3 +66,5 @@ Every player's **Nostr identity** is part of the blockchain story. Your entire a
 This game provides the structure of AD&D with the innovation of a blockchain-driven world, where players can explore, fight, and build in a universe shaped by their imagination and cryptographic proof. Whether you're a fan of role-playing games or curious about blockchain, *Dungeon Mastr* offers a **unique, transparent, and exciting** adventure.
 
 Join the game, create your character, and see how your Nostr identity unfolds into an epic journey.
+
+Next Steps: flesh out the rules and game mechanics in the [wiki](https://github.com/dungeon-mastr/rules/wiki)
